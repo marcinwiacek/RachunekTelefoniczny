@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Rachunek telefoniczny</string>
+    <string name="menu_settings">Start</string>
+    <string name="title_activity_main">Rachunek telefoniczny</string>
+
+</resources>
